@@ -1,4 +1,4 @@
-# Graph Characteristics: Largest Connected Component vs Degree Distribution
+# Graph: Largest Connected Component vs Degree Distribution
 
 This project explores the fraction of nodes in the largest connected component (LCC) of random graphs generated using the Erdős–Rényi model (G(n, p)). The main goal is to analyze how the fraction of nodes in the LCC changes with varying connection probabilities and graph sizes.
 
